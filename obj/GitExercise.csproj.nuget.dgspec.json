@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Hasan\\Desktop\\git-excersise\\GitExercise\\GitExercise.csproj": {}
   },
   "projects": {
@@ -19,6 +20,25 @@
         "configFilePaths": [
           "C:\\Users\\Hasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+    "C:\\Users\\Student KK1\\Desktop\\Modul XIII\\03-version-control-systems\\GitTest\\GitExercise\\GitExercise.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Student KK1\\Desktop\\Modul XIII\\03-version-control-systems\\GitTest\\GitExercise\\GitExercise.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Student KK1\\Desktop\\Modul XIII\\03-version-control-systems\\GitTest\\GitExercise\\GitExercise.csproj",
+        "projectName": "GitExercise",
+        "projectPath": "C:\\Users\\Student KK1\\Desktop\\Modul XIII\\03-version-control-systems\\GitTest\\GitExercise\\GitExercise.csproj",
+        "packagesPath": "C:\\Users\\Student KK1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student KK1\\Desktop\\Modul XIII\\03-version-control-systems\\GitTest\\GitExercise\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Student KK1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> d64d19ac407516b9c525c2b73e1eaee5f5deee9c
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -76,7 +96,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+>>>>>>> d64d19ac407516b9c525c2b73e1eaee5f5deee9c
         }
       }
     }

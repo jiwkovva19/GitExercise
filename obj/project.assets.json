@@ -8,12 +8,18 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Hasan\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
+    "C:\\Users\\Student KK1\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+>>>>>>> d64d19ac407516b9c525c2b73e1eaee5f5deee9c
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Hasan\\Desktop\\git-excersise\\GitExercise\\GitExercise.csproj",
       "projectName": "GitExercise",
       "projectPath": "C:\\Users\\Hasan\\Desktop\\git-excersise\\GitExercise\\GitExercise.csproj",
@@ -26,6 +32,19 @@
       "configFilePaths": [
         "C:\\Users\\Hasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+      "projectUniqueName": "C:\\Users\\Student KK1\\Desktop\\Modul XIII\\03-version-control-systems\\GitTest\\GitExercise\\GitExercise.csproj",
+      "projectName": "GitExercise",
+      "projectPath": "C:\\Users\\Student KK1\\Desktop\\Modul XIII\\03-version-control-systems\\GitTest\\GitExercise\\GitExercise.csproj",
+      "packagesPath": "C:\\Users\\Student KK1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Student KK1\\Desktop\\Modul XIII\\03-version-control-systems\\GitTest\\GitExercise\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Student KK1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> d64d19ac407516b9c525c2b73e1eaee5f5deee9c
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -83,7 +102,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+>>>>>>> d64d19ac407516b9c525c2b73e1eaee5f5deee9c
       }
     }
   }
